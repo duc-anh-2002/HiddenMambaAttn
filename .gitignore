@@ -1,2 +1,3 @@
 ./vim/__pycache__
 ./causal-conv1d
+checkpoint/
